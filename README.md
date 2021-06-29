@@ -4,11 +4,11 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 
 In this assignment, it was used deep learning recurrent neural networks to model bitcoin closing prices. One model used the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price.
 
-It was needed to:
+It was required to:
 
 1. Prepare the data for training and testing
-2. Build and train custom LSTM RNNs]
-3. Evaluate the performance of each model]
+2. Build and train custom LSTM RNNs
+3. Evaluate the performance of each model
 
 
 Using the testing data, it was evaluated each model and compared the performance to answer the question below:
@@ -22,4 +22,3 @@ Using the testing data, it was evaluated each model and compared the performance
 > Which window size works best for the model?
 > The window size that works better is 10
 
-> Also, it was interesting to note that 
